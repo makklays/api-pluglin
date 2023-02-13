@@ -11,11 +11,13 @@
 
 La tarea de prueba para 'Blarlo' 
 
-## Screens
+He creaba las migraciones, los Modelos con las relaciones entre las tablas de base de datos y las rutas para REST API. Creaba servicio Content para connectar tu API externo de las condiciónes de la tarea de prueba técnica. El resultado de la tarea de prueba abajo en las pantallas.
 
-Una categoria:
+## Las pantallas 
+
+URL para obtener los contenidos por una categoria:
 <a href="https://github.com/makklays/api-pluglin/blob/main/public/screens/categorias.png"><img src="https://github.com/makklays/api-pluglin/blob/main/public/screens/categorias.png" alt="categorias"></a>
 
-Una idioma:
+URL para obtener los contenidos por una idioma:
 <a href="https://github.com/makklays/api-pluglin/blob/main/public/screens/idiomas.png"><img src="https://github.com/makklays/api-pluglin/blob/main/public/screens/idiomas.png" alt="idiomas"></a>
 
