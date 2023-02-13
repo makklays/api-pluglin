@@ -13,7 +13,9 @@ La tarea de prueba para 'Blarlo'
 
 ## Screens
 
+Una categoria:
 <a href="https://github.com/makklays/api-pluglin/blob/main/public/screens/categorias.png"><img src="https://github.com/makklays/api-pluglin/blob/main/public/screens/categorias.png" alt="categorias"></a>
 
+Una idioma:
 <a href="https://github.com/makklays/api-pluglin/blob/main/public/screens/idiomas.png"><img src="https://github.com/makklays/api-pluglin/blob/main/public/screens/idiomas.png" alt="idiomas"></a>
 
